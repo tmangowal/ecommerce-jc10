@@ -1,1 +1,0 @@
-export const TESTING = 'TESTING'
